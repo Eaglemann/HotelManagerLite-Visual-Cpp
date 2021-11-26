@@ -3,4 +3,4 @@ Simple_Hotel Management Panel created with Visual C++, Interface is in Albanian 
 
 
 This can be used as a reference to start a big project. It has all basic CRUD opetarions
-to regarding customer status and room status and also login support for the receptionist.
+regarding customer status and room status and also login support for the receptionist.
